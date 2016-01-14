@@ -1,0 +1,142 @@
+
+
+.Catalog h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.Catalog p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.CatalogTwo h2 {
+    color: lightgrey;
+    font-size: 24px;
+}
+
+.CatalogTwo p {
+    color: lightgrey;
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.nav{
+    position:fixed;
+    background: #fff;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image: url("dark-grey-texture-2.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 10px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h2 {
+  color: #fff;
+  font-size: 30px;  
+  font-family: 'Shift', sans-serif;
+  
+}
+
+.jumbotron p {
+  
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.background-image {
+    background-image: url("darkPurple.jpg");
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-item {
+  background-image: url("darkPurple.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Shift', sans-serif;
+  color: whitesmoke;
+}
+
+.background-item .container {
+    position:relative;
+    top: 10px;
+}
+
+
+
+.jumbotron-winkel {
+  background-image: url("darkPurple.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-winkel .container {
+  position: relative;
+  top: 200px;
+}
+
+.jumbotron-winkel h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron-winkel h2 {
+  color: #fff;
+  font-size: 30px;  
+  font-family: 'Shift', sans-serif;
+  
+}
+
+.jumbotron-winkel p {
+  
+  font-size: 20px;
+  color: #fff;
+}
+
